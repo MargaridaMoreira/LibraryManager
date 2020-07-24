@@ -33,4 +33,4 @@ In case you get this error `bash: ./runtests.sh: Permission denied` run
 chmod +x runtests.sh
 ```
 
-This project was made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more insteresting projects! :wink:
+This project was made with my friend [@Mokita-J](https://github.com/Mokita-J). Go check her page for more interesting projects! :wink:
