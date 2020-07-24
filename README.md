@@ -11,10 +11,14 @@ Java 1.8+ must be installed.
 git clone https://github.com/MargaridaMoreira/Library_Manager.git
 ```
 
-## Run by typing:
+## Set classpath
 ```
 cd Library_Manager
 export CLASSPATH=./m19-app/m19-app.jar:./m19-core/m19-core.jar:./po-uuilib/po-uuilib.jar:.
+```
+
+## Run by typing:
+```
 make
 java m19.app.App
 ```
