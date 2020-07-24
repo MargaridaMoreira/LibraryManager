@@ -16,6 +16,7 @@ git clone https://github.com/MargaridaMoreira/Library_Manager.git
 cd Library_Manager
 export CLASSPATH=./m19-app/m19-app.jar:./m19-core/m19-core.jar:./po-uuilib/po-uuilib.jar:.
 make
+java m19.app.App
 ```
 
 ## Run tests by typing:
